@@ -1,5 +1,5 @@
 /*
-Nama Program: tugas_rekursif.cpp
+Nama Program: 2oct25.cpp
 Nama        : Subhil Mubarak
 NPM         : 140810250032
 Tanggal buat: 2 Oktober 2025
