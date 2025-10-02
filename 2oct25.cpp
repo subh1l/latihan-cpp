@@ -4,6 +4,7 @@ Nama        : Subhil Mubarak
 NPM         : 140810250032
 Tanggal buat: 2 Oktober 2025
 Deskripsi   : konversi angka desimal menjadi biner, oktal, dan heksadesimal
+Waktu buat  : 30 menit 41 detik
 */
 #include <iostream>
 using namespace std;
