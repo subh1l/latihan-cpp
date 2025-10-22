@@ -1,5 +1,5 @@
 /*
-Nama Program: findpivot.cpp
+Nama Program: merge.cpp
 Nama        : Subhil Mubarak
 NPM         : 140810250032
 Tanggal buat: 15 Oktober 2025
