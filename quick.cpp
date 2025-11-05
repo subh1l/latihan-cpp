@@ -3,7 +3,7 @@ Nama Program : quick sort
 Nama         : Subhil Mubarak
 NPM          : 140810250032
 Tanggal Buat : 5 November 2025
-Deskripsi    : meratakan beban
+Deskripsi    : sorting array dengan teknik quick sort untuk ascending dan descending
 Waktu        : 30 Menit 21 Detik
 */
 
