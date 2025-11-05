@@ -1,5 +1,5 @@
 /*
-Nama Program : quick descending
+Nama Program : quick sort
 Nama         : Subhil Mubarak
 NPM          : 140810250032
 Tanggal Buat : 5 November 2025
