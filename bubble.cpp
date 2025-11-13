@@ -2,7 +2,7 @@
 Nama Program : bubble sort
 Nama         : Subhil Mubarak
 NPM          : 140810250032
-Tanggal Buat : 8 November 2025
+Tanggal Buat : 11 November 2025
 Deskripsi    : sorting array dengan teknik buble sort untuk ascending dan descending
 Waktu        : 16 Menit 19 Detik
 */
