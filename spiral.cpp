@@ -1,3 +1,11 @@
+/*
+Nama Program: spiral
+Nama        : Subhil Mubarak
+NPM         : 140810250032
+Tanggal buat: 19 November 2025
+Deskripsi   : menampilkan nilai array secara spiral
+*/
+
 #include <iostream>
 using namespace std;
 
